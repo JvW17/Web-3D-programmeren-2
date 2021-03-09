@@ -26,7 +26,7 @@
 
                                               .box2{
                                                 grid-area: kleur1;
-                                                background-color: violet;
+                                                background-color: dodgerblue;
                                                 border-radius: 20px;
                                                 display: flex;
                                                 justify-content: center;
@@ -44,7 +44,7 @@
 
                                               .box4{
                                                 grid-area: kleur2;
-                                                background-color: orange;
+                                                background-color: dodgerblue;
                                                 border-radius: 20px;
                                                 display: flex;
                                                 justify-content: center;
@@ -53,7 +53,7 @@
 
                                               .box5{
                                                 grid-area: kleur3;
-                                                background-color: MediumSeaGreen;
+                                                background-color: dodgerblue;
                                                 border-radius: 20px;
                                                 display: flex;
                                                 justify-content: center;
